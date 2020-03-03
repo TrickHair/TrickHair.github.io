@@ -3,11 +3,12 @@
 
 
 
+
 body {
   font-family: Rubik;
 }
 .display-1 {
-  font-family: 'Lovelo-Black';
+  font-family: 'Rubik', sans-serif;
   font-size: 4.25rem;
   font-display: swap;
 }
@@ -623,6 +624,56 @@ section.lazy-placeholder:after {
 }
 .cid-rQ2Clk5wOt {
   background-image: url("../../../assets/images/bokeh-534224-1920-1920x1357.jpg");
+}
+.cid-rS8tIcpUHl {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #000000;
+}
+.cid-rS8tIcpUHl .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rS8tIcpUHl .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rS8tIcpUHl .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-rS8tIcpUHl .team-item .item-image img {
+  width: 100%;
+}
+.cid-rS8tIcpUHl .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-rS8tIcpUHl .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-rS8tIcpUHl .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-rS8tIcpUHl .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-rS8tIcpUHl .team-item .item-caption {
+  background: #232323;
+}
+.cid-rS8tIcpUHl H2 {
+  color: #efefef;
+}
+.cid-rS8tIcpUHl .item-role P {
+  text-align: center;
+  color: #efefef;
+}
+.cid-rS8tIcpUHl .item-name {
+  color: #efefef;
 }
 .cid-rQ2Cido07x .navbar {
   background: #232323;
