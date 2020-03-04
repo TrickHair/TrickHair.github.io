@@ -1,5 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap);
 
 
 
@@ -9,12 +9,12 @@ body {
   font-family: Rubik;
 }
 .display-1 {
-  font-family: 'Roboto', sans-serif;
-  font-size: 4.25rem;
+  font-family: 'Rubik', sans-serif;
+  font-size: 3.6rem;
   font-display: swap;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 6.8rem;
+  font-size: 5.76rem;
 }
 .display-2 {
   font-family: 'Roboto', sans-serif;
@@ -55,9 +55,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 3.4rem;
-    font-size: calc( 2.1374999999999997rem + (4.25 - 2.1374999999999997) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (2.1374999999999997rem + (4.25 - 2.1374999999999997) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.88rem;
+    font-size: calc( 1.91rem + (3.6 - 1.91) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.91rem + (3.6 - 1.91) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 2.4rem;
@@ -1116,8 +1116,8 @@ section.lazy-placeholder:after {
   color: #767676;
 }
 .cid-rS9HA5elQK .card-wrapper {
-  border-top: 1px solid #efefef;
-  background-color: #424242;
+  border-top: 1px solid #465052;
+  background-color: #232323;
   position: relative;
   justify-content: unset;
 }
@@ -1150,6 +1150,7 @@ section.lazy-placeholder:after {
 }
 .cid-rS9HA5elQK H2 {
   color: #efefef;
+  text-align: center;
 }
 .cid-rS9HA5elQK .b-descr {
   color: #efefef;
