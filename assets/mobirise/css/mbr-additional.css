@@ -623,8 +623,23 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
-.cid-rQ2Clk5wOt {
-  background-image: url("../../../assets/images/bokeh-534224-1920-1920x1357.jpg");
+.cid-rSj1R7tpOn {
+  background-image: url("../../../assets/images/flowers-4836548-1920-1920x1280.jpg");
+}
+.cid-rSj1R7tpOn h1 {
+  color: #616161;
+}
+.cid-rSj1R7tpOn h2,
+.cid-rSj1R7tpOn h3,
+.cid-rSj1R7tpOn p {
+  color: #767676;
+}
+.cid-rSj1R7tpOn .mbr-section-subtitle {
+  font-style: italic;
+}
+.cid-rSj1R7tpOn H1 {
+  color: #efefef;
+  text-align: right;
 }
 .cid-rQ2Cido07x .navbar {
   background: #232323;
@@ -1031,7 +1046,7 @@ section.lazy-placeholder:after {
 .cid-rS7FVjxHuk {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #424242;
+  background-color: #151515;
 }
 .cid-rS7FVjxHuk .testimonials-container {
   margin: 0 auto;
@@ -1090,7 +1105,7 @@ section.lazy-placeholder:after {
 .cid-rS9HA5elQK {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #232323;
+  background-image: url("../../../assets/images/flowers-4836548-1920-1920x1280.jpg");
 }
 .cid-rS9HA5elQK h4 {
   width: 85%;
@@ -1143,7 +1158,7 @@ section.lazy-placeholder:after {
 .cid-rQ30uZqyFc {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #424242;
+  background-color: #151515;
 }
 @media (max-width: 767px) {
   .cid-rQ30uZqyFc .content {
