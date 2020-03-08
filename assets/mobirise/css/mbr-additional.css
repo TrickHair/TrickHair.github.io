@@ -1118,6 +1118,208 @@ section.lazy-placeholder:after {
 .cid-rQ2Cido07x .dropdown-item:hover {
   color: #767676 !important;
 }
+.cid-rSG81SYD5y {
+  padding-top: 30px;
+  padding-bottom: 60px;
+  background-color: #151515;
+}
+.cid-rSG81SYD5y .mbr-iconfont {
+  color: #767676;
+  font-size: 0.9rem;
+}
+.cid-rSG81SYD5y .title,
+.cid-rSG81SYD5y .mbr-section-title {
+  margin-bottom: 0.5rem!important;
+}
+.cid-rSG81SYD5y .card-wrapper {
+  overflow: hidden;
+  height: 100%;
+  background: #767676;
+  color: #232323;
+  box-shadow: 0 1px 8px 0 rgba(0, 0, 0, 0.08);
+  padding: 0rem;
+}
+.cid-rSG81SYD5y .ico-wrap {
+  background: #cccccc;
+  padding: 1rem;
+}
+.cid-rSG81SYD5y .phone {
+  margin-bottom: 0;
+  color: #767676;
+  text-align: left;
+}
+.cid-rSG81SYD5y .text-box {
+  padding: 0rem;
+}
+.cid-rSG81SYD5y .ico-box {
+  display: flex;
+  -webkit-align-items: center;
+  align-items: center;
+  padding: 3px;
+}
+.cid-rSG81SYD5y .card-title {
+  color: #efefef;
+  margin: 0;
+  padding-bottom: 0.2rem;
+}
+.cid-rSG81SYD5y .card-img {
+  overflow: hidden;
+}
+.cid-rSG81SYD5y .card-img:hover img {
+  -webkit-transform: scale(1.05);
+  transform: scale(1.05);
+}
+.cid-rSG81SYD5y .card-box {
+  padding: 0rem;
+}
+.cid-rSG81SYD5y img {
+  transition: all 0.3s;
+}
+.cid-rSG81SYD5y .mbr-section-title {
+  margin: 0 auto;
+  margin-bottom: 2rem;
+  color: #767676;
+}
+.cid-rSG81SYD5y .status {
+  color: #767676;
+  text-align: left;
+}
+@media (min-width: 576px) {
+  .cid-rSG81SYD5y .card-wrapper {
+    display: flex;
+    -webkit-align-items: center;
+    align-items: center;
+  }
+  .cid-rSG81SYD5y .card-img {
+    width: 30%;
+  }
+  .cid-rSG81SYD5y .card-box {
+    width: 70%;
+    margin-left: 2rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-rSG81SYD5y .card-img {
+    width: 50%;
+  }
+  .cid-rSG81SYD5y .card-box {
+    width: 50%;
+    margin-left: 0rem;
+  }
+  .cid-rSG81SYD5y .text-box {
+    padding: 1rem;
+  }
+}
+@media (max-width: 576px) {
+  .cid-rSG81SYD5y .card-img {
+    width: 100%;
+  }
+  .cid-rSG81SYD5y .card-box {
+    width: 100%;
+  }
+}
+.cid-rSG81SYD5y .card-box > p,
+.cid-rSG81SYD5y .mbr-section-btn {
+  color: #efefef;
+  text-align: center;
+}
+.cid-rSGdE6AUTp {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #151515;
+}
+.cid-rSGdE6AUTp .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rSGdE6AUTp .item-image {
+  position: relative;
+}
+@media (min-width: 992px) {
+  .cid-rSGdE6AUTp .container {
+    max-width: 1600px;
+  }
+}
+.cid-rSGdE6AUTp .container {
+  padding: 0 2rem;
+}
+.cid-rSGdE6AUTp .mbr-iconfont {
+  color: #7f1933 !important;
+}
+.cid-rSGdE6AUTp .item-caption {
+  padding: 3rem;
+  padding-bottom: 1rem;
+}
+.cid-rSGdE6AUTp .item-social {
+  position: absolute;
+  left: 50%;
+  align-items: center;
+  right: 50%;
+  transform: translate(-50%, -50%);
+  bottom: -3rem;
+  opacity: 0;
+  transition: all 0.3s;
+  width: 100%;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 20%, #000000 200%);
+  height: 6rem;
+}
+.cid-rSGdE6AUTp .bg1 {
+  background: #232323;
+}
+.cid-rSGdE6AUTp .bg2 {
+  background: #232323;
+}
+.cid-rSGdE6AUTp .bg3 {
+  background: #232323;
+}
+.cid-rSGdE6AUTp .bg4 {
+  background: #d6952c;
+}
+.cid-rSGdE6AUTp .team-item {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  height: fit-content;
+  transition: all .2s;
+  margin-bottom: 0rem;
+}
+.cid-rSGdE6AUTp .team-item:hover .item-social {
+  opacity: 1;
+}
+.cid-rSGdE6AUTp .team-item .item-image img {
+  width: 100%;
+}
+.cid-rSGdE6AUTp .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-rSGdE6AUTp .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-rSGdE6AUTp .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-rSGdE6AUTp .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-rSGdE6AUTp .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+@media (max-width: 767px) {
+  .cid-rSGdE6AUTp .item-caption {
+    padding: 2rem 1rem;
+  }
+  .cid-rSGdE6AUTp .item-social {
+    opacity: 1;
+  }
+}
+.cid-rSGdE6AUTp H2 {
+  color: #efefef;
+}
 .cid-rS9HA5elQK {
   padding-top: 45px;
   padding-bottom: 90px;
