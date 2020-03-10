@@ -1235,57 +1235,58 @@ section.lazy-placeholder:after {
   color: #efefef;
   text-align: left;
 }
-.cid-rS9HA5elQK {
-  padding-top: 45px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/flowers-4836548-1920-1920x1280.jpg");
+.cid-rSQZHlLGzf {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #151515;
 }
-.cid-rS9HA5elQK h4 {
-  width: 85%;
-  font-weight: 500;
+.cid-rSQZHlLGzf h2 {
   margin-bottom: 0;
 }
-.cid-rS9HA5elQK p {
-  color: #767676;
+.cid-rSQZHlLGzf h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  width: 80%;
 }
-.cid-rS9HA5elQK .card-wrapper {
-  border-top: 1px solid #465052;
+.cid-rSQZHlLGzf p {
+  color: #767676;
+  margin-bottom: 0;
+}
+.cid-rSQZHlLGzf .card-wrapper {
+  border-top: 1px solid #efefef;
   background-color: #232323;
   position: relative;
   justify-content: unset;
 }
-.cid-rS9HA5elQK .card-wrapper .card-box {
-  padding: 2rem;
+.cid-rSQZHlLGzf .card-wrapper .card-box {
+  padding: 2rem 1rem;
   width: 100%;
 }
-.cid-rS9HA5elQK .card-wrapper .card-box .top-line {
+.cid-rSQZHlLGzf .card-wrapper .card-box .top-line {
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
-.cid-rS9HA5elQK .card-wrapper .card-box .bottom-line {
-  width: 85%;
+.cid-rSQZHlLGzf .card-wrapper .card-box .bottom-line {
+  width: 70%;
 }
 @media (max-width: 767px) {
-  .cid-rS9HA5elQK .card-wrapper .card-box .bottom-line {
+  .cid-rSQZHlLGzf .card-wrapper .card-box .bottom-line {
     width: 100%;
   }
-  .cid-rS9HA5elQK .card-wrapper .card-box .bottom-line p {
+  .cid-rSQZHlLGzf .card-wrapper .card-box .bottom-line p {
     text-align: center;
     margin: 1rem 0 0 0;
   }
 }
-.cid-rS9HA5elQK .cost {
-  color: #efefef;
-}
-.cid-rS9HA5elQK .card-title {
-  color: #efefef;
-}
-.cid-rS9HA5elQK H2 {
-  color: #efefef;
+.cid-rSQZHlLGzf H2 {
+  color: #cccccc;
   text-align: center;
 }
-.cid-rS9HA5elQK .b-descr {
+.cid-rSQZHlLGzf .card-title {
+  color: #efefef;
+}
+.cid-rSQZHlLGzf P {
   color: #efefef;
   text-align: left;
 }
