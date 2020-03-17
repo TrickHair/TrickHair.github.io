@@ -1195,7 +1195,7 @@ section.lazy-placeholder:after {
 }
 .cid-rSXtB0aYMt {
   padding-top: 30px;
-  padding-bottom: 15px;
+  padding-bottom: 75px;
   background-image: url("../../../assets/images/flowers-4836548-1920-1920x1280.jpg");
 }
 @media (max-width: 767px) {
@@ -1260,4 +1260,7 @@ section.lazy-placeholder:after {
     -webkit-justify-content: center;
     justify-content: center;
   }
+}
+.cid-rSXtB0aYMt .copyright > p {
+  color: #767676;
 }
