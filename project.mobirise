@@ -472,7 +472,7 @@
                   "-webkit-flex-direction": "column",
                   "flex-direction": "column",
                   "margin-left": "auto",
-                  "max-width": "20rem ",
+                  "max-width": "12rem ",
                   "height": "100vh",
                   "-webkit-justify-content": "flex-start",
                   "justify-content": "flex-start",
@@ -763,7 +763,9 @@
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
-          "_params": {}
+          "_params": {},
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         }
       ]
     }
